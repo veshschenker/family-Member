@@ -6,3 +6,5 @@ Veronicah
 nina
 Michael
 Gabriel
+joan
+anita
