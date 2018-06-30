@@ -10,3 +10,5 @@ joan
 anita
 Cicila
 Ralph
+Brigit
+Paul
